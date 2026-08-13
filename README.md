@@ -86,6 +86,10 @@ A Streamlit web application was developed to provide customer churn predictions 
 
 The trained model and supporting preprocessing files are used by the application to generate predictions.
 
+### Application Preview
+
+![Customer Churn Prediction Streamlit App](screenshots/streamlit_app.png)
+
 ## 📁 Project Structure
 
 ```text
